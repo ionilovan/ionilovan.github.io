@@ -20,11 +20,10 @@ img:hover {
 	}
 
 .btn-dark {
-	background-color: white;
+	background-color: #8c8c8c;
 	margin: auto;
 	display: block;
 	display: flex;
-
 			}
 
 .btn-dark:hover {
